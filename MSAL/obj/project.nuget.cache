@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Tdx9wLYWPI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jroyc\\Documents\\Programming\\personal_projects\\AzureMSAL\\az204-auth\\az204-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jroyc\\.nuget\\packages\\microsoft.identity.client\\4.73.0\\microsoft.identity.client.4.73.0.nupkg.sha512",
+    "C:\\Users\\jroyc\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\jroyc\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\jroyc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
